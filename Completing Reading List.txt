@@ -1,0 +1,46 @@
+This is not a comprehensive list but exists to highlight my knowledge base.
+
+Finance
+Rosenbaum (2009) - Investment Banking
+Cicero, Wintoki, Biggerstaff (2015) - Insider Trading Patterns
+Cohen & Frazzini (2006) - Economic Links and Predictable Returns
+McDonald (2014) - Issues In Angel Investing Research - An Analysis of Data and Returns in the US and Abroad
+McDonald (2014) - The Value of Middle Market Investment Bankers
+Graham (1949) - The Intelligent Investor
+Graham & Dodd (1934) - Security Analysis
+
+Options
+Baird (1993) - Option Market Making - Trading and Risk Analysis for the Financial and Commodity Option Markets
+CBOE (2019) - VIX White Paper
+Derman, Miller, & Park (2016) - The Volatility Smile
+Natenberg (2015) - Option Volatility & Pricing
+Sinclair (2013) - Volatility Trading
+Ferrari, Poy, & Abate (2019) - Dispersion Trading - An Empirical Analysis on the S&P 100 Options
+
+Risk
+Allen (2018) - Risk Parity
+Fisher, Maymin, & Maymin (2013) - Risk Parity Optimality
+Hurst, Johnson, & Ooi (2010) - Understanding Risk Parity
+Inker (2010) - The Hidden Risk of Risk Parity Portfolios
+Kazemi (2011) - An Introduction to Risk Parity
+Partridge, Croce, & Kellert (2011) - Risk Parity and Efficient Asset Allocation
+
+Economics
+Dalio (2017) - How the Economic Machine Works
+Dalio (2018) - Primer on Universal Basic Income
+Dalio (2018) - Principles for Navigating Big Debt Crises
+Dalio (2020) - The Implications of Hitting the Hard 0% Interest Rate Floor
+
+Accounting
+Franklin, Graybeal, & Cooper (2019) - Managerial Accounting
+
+Insurance
+Kwon & Wolfrom (2016) - Analytical tools for the insurance market and macro-prudential surveillance
+
+Annual Letters
+Berkshire Hathaway/Buffett Partnership - 1957 to Present
+Amazon - 1997 to Present
+JP Morgan - 2005 to Present
+
+10-Ks
+Over 100 across different sectors. Very detailed understanding of STOR.
